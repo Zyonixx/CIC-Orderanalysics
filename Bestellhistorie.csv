@@ -1,0 +1,69 @@
+BestellID,Bestelldatum,Bestellart,Lieferant,Artikelnummer,Artikelbeschreibung,Menge,Einheit,PreisProEinheit,Bestellstatus
+1,2024-01-15,Standardbestellung,Shimano GmbH,SH-BR-M820,Bremssattel Saint M820,50,Stück,75.50,Geliefert
+2,2024-01-18,Eilbestellung,Continental AG,CO-RE-RACE,Fahrradreifen Race King 2.2,100,Stück,35.20,Geliefert
+3,2024-01-22,Standardbestellung,Selle Italia S.r.l.,SI-SA-FLITE,Fahrradsattel Flite Boost,30,Stück,110.00,Geliefert
+4,2024-01-29,Standardbestellung,Shimano GmbH,SH-CN-HG601,Kette CN-HG601 11-fach,75,Stück,18.75,Geliefert
+5,2024-02-05,Eilbestellung,Magura Bosch Parts & Services GmbH,MA-HB-MT7,Hydraulikbremse MT7,15,Satz,185.99,Geliefert
+6,2024-02-08,Standardbestellung,Continental AG,CO-TU-PREM,Fahrradschlauch Presta Ventil,200,Stück,4.50,Geliefert
+7,2024-02-12,Standardbestellung,SRAM Corporation,SR-FC-GX1,Kurbelgarnitur GX Eagle,40,Stück,135.00,Geliefert
+8,2024-02-19,Standardbestellung,Shimano GmbH,SH-CS-M7100,Kassette SLX CS-M7100 12-fach,60,Stück,55.80,Geliefert
+9,2024-02-26,Eilbestellung,Magura Bosch Parts & Services GmbH,MA-BR-MT5,Hydraulikbremse MT5,20,Satz,99.50,Geliefert
+10,2024-03-04,Standardbestellung,Selle Italia S.r.l.,SI-SA-NOVUS,Fahrradsattel Novus Boost Evo,35,Stück,85.00,Geliefert
+11,2024-03-07,Standardbestellung,Continental AG,CO-RE-CROSS,Fahrradreifen Cross King 2.3,80,Stück,38.90,Geliefert
+12,2024-03-11,Standardbestellung,Shimano GmbH,SH-RD-M8100,Schaltwerk XT RD-M8100-SGS,55,Stück,72.30,Geliefert
+13,2024-03-18,Eilbestellung,SRAM Corporation,SR-CN-GX12,Kette GX Eagle 12-fach,90,Stück,25.50,Geliefert
+14,2024-03-25,Standardbestellung,Magura Bosch Parts & Services GmbH,MA-RT-MDR-P,Bremsscheibe MDR-P 203mm,45,Stück,42.75,Geliefert
+15,2024-04-01,Standardbestellung,Selle Italia S.r.l.,SI-GR-EPICA,Fahrradgriffe Epica,60,Paar,22.00,Geliefert
+16,2024-04-08,Standardbestellung,Continental AG,CO-TU-S42,Fahrradschlauch S42 Presta Ventil,150,Stück,3.80,Geliefert
+17,2024-04-15,Eilbestellung,Shimano GmbH,SH-HB-M820,Vorderradnabe Saint HB-M820,25,Stück,48.90,Geliefert
+18,2024-04-22,Standardbestellung,SRAM Corporation,SR-BB-DUB,Innenlager DUB BSA,40,Stück,31.50,Geliefert
+19,2024-04-29,Standardbestellung,Magura Bosch Parts & Services GmbH,MA-BL-MT7,Bremshebel MT7,30,Stück,65.00,Geliefert
+20,2024-05-06,Standardbestellung,Selle Italia S.r.l.,SI-KI-STORIA,Fahrradsattel Storica,20,Stück,95.00,Geliefert
+21,2024-05-13,Eilbestellung,Continental AG,CO-RE-SPEED,Fahrradreifen Speed King 2.2,70,Stück,32.50,Geliefert
+22,2024-05-20,Standardbestellung,Shimano GmbH,SH-RD-M7100,Schaltwerk SLX RD-M7100-SGS,50,Stück,68.00,Geliefert
+23,2024-05-27,Standardbestellung,SRAM Corporation,SR-CS-PG1230,Kassette PG-1230 Eagle 12-fach,80,Stück,48.50,Geliefert
+24,2024-06-03,Eilbestellung,Magura Bosch Parts & Services GmbH,MA-RT-MDR-C,Bremsscheibe MDR-C 180mm,60,Stück,35.20,Geliefert
+25,2024-06-10,Standardbestellung,Selle Italia S.r.l.,SI-BA-TURBO,Fahrradsattel Turbo,25,Stück,120.00,Geliefert
+26,2024-06-17,Standardbestellung,Continental AG,CO-TU-LIGHT,Fahrradschlauch Light S42,180,Stück,5.10,Geliefert
+27,2024-06-24,Eilbestellung,Shimano GmbH,SH-FH-M820,Hinterradnabe Saint FH-M820,30,Stück,55.00,Geliefert
+28,2024-07-01,Standardbestellung,SRAM Corporation,SR-FC-NX1,Kurbelgarnitur NX Eagle,35,Stück,115.00,Geliefert
+29,2024-07-08,Standardbestellung,Magura Bosch Parts & Services GmbH,MA-BL-MT5,Bremshebel MT5,40,Stück,58.00,Geliefert
+30,2024-07-15,Standardbestellung,Selle Italia S.r.l.,SI-SA-XLR,Fahrradsattel SLR Boost,45,Stück,155.00,Geliefert
+31,2024-07-22,Eilbestellung,Continental AG,CO-RE-ATTACK,Fahrradreifen Grand Prix Attack III,55,Stück,41.00,Geliefert
+32,2024-07-29,Standardbestellung,Shimano GmbH,SH-CN-M7100,Kette SLX CN-M7100 12-fach,85,Stück,22.50,Geliefert
+33,2024-08-05,Standardbestellung,SRAM Corporation,SR-RD-GX1,Schaltwerk GX Eagle,50,Stück,95.00,Geliefert
+34,2024-08-12,Eilbestellung,Magura Bosch Parts & Services GmbH,MA-RT-MDR-P,Bremsscheibe MDR-P 220mm,20,Stück,48.50,Geliefert
+35,2024-08-19,Standardbestellung,Selle Italia S.r.l.,SI-GR-ERGON,Fahrradgriffe Ergon GP1,70,Paar,28.00,Geliefert
+36,2024-08-26,Standardbestellung,Continental AG,CO-TU-RACE,Fahrradschlauch Race 28,120,Stück,4.20,Geliefert
+37,2024-09-02,Eilbestellung,Shimano GmbH,SH-CS-M8100,Kassette XT CS-M8100 12-fach,40,Stück,78.90,Geliefert
+38,2024-09-09,Standardbestellung,SRAM Corporation,SR-BB-GXP,Innenlager GXP Team,30,Stück,28.00,Geliefert
+39,2024-09-16,Standardbestellung,Magura Bosch Parts & Services GmbH,MA-BL-MT8,Bremshebel MT8,15,Stück,110.00,Geliefert
+40,2024-09-23,Standardbestellung,Selle Italia S.r.l.,SI-KI-NEPAL,Fahrradsattel Nepal,30,Stück,70.00,Geliefert
+41,2024-09-30,Eilbestellung,Continental AG,CO-RE-TERRA,Fahrradreifen Terra Trail 2.3,65,Stück,39.50,Geliefert
+42,2024-10-07,Standardbestellung,Shimano GmbH,SH-RD-M6100,Schaltwerk Deore RD-M6100-SGS,60,Stück,55.00,Geliefert
+43,2024-10-14,Standardbestellung,SRAM Corporation,SR-CN-NX12,Kette NX Eagle 12-fach,75,Stück,20.00,Geliefert
+44,2024-10-21,Eilbestellung,Magura Bosch Parts & Services GmbH,MA-RT-MDR-C,Bremsscheibe MDR-C 203mm,35,Stück,38.50,Geliefert
+45,2024-10-28,Standardbestellung,Selle Italia S.r.l.,SI-BA-FLITE,Fahrradsattel Flite,20,Stück,130.00,Geliefert
+46,2024-11-04,Standardbestellung,Continental AG,CO-TU-MTB,Fahrradschlauch MTB 26/27.5/29,250,Stück,3.50,Geliefert
+47,2024-11-11,Eilbestellung,Shimano GmbH,SH-HB-M7110,Vorderradnabe SLX HB-M7110,40,Stück,35.00,Geliefert
+48,2024-11-18,Standardbestellung,SRAM Corporation,SR-BB-DUB-PF,Innenlager DUB Pressfit,25,Stück,38.00,Geliefert
+49,2024-11-25,Standardbestellung,Magura Bosch Parts & Services GmbH,MA-BL-MT4,Bremshebel MT4,50,Stück,45.00,Geliefert
+50,2024-12-02,Standardbestellung,Selle Italia S.r.l.,SI-KI-SLR,Fahrradsattel SLR,35,Stück,165.00,Geliefert
+51,2024-12-09,Eilbestellung,Continental AG,CO-RE-CONTACT,Fahrradreifen Contact Urban,90,Stück,28.00,Geliefert
+52,2024-12-16,Standardbestellung,Shimano GmbH,SH-RD-M5100,Schaltwerk Deore RD-M5100-SGS,70,Stück,48.00,Geliefert
+53,2024-12-23,Standardbestellung,SRAM Corporation,SR-CS-PG1210,Kassette PG-1210 Eagle 12-fach,100,Stück,40.00,Geliefert
+54,2025-01-06,Eilbestellung,Magura Bosch Parts & Services GmbH,MA-RT-MDR-P,Bremsscheibe MDR-P 180mm,50,Stück,40.00,Geliefert
+55,2025-01-13,Standardbestellung,Selle Italia S.r.l.,SI-GR-NEOPRE,Fahrradgriffe Neopren,80,Paar,15.00,Geliefert
+56,2025-01-20,Standardbestellung,Continental AG,CO-TU-TOUR,Fahrradschlauch Tour 28,100,Stück,3.00,Geliefert
+57,2025-01-27,Eilbestellung,Shimano GmbH,SH-HB-M6110,Vorderradnabe Deore HB-M6110,60,Stück,28.00,Geliefert
+58,2025-02-03,Standardbestellung,SRAM Corporation,SR-BB-DUB-TR,Innenlager DUB Tretlager,30,Stück,25.00,Geliefert
+59,2025-02-10,Standardbestellung,Magura Bosch Parts & Services GmbH,MA-BL-MT2,Bremshebel MT2,65,Stück,35.00,Geliefert
+60,2025-02-17,Standardbestellung,Selle Italia S.r.l.,SI-KI-NOVUS,Fahrradsattel Novus Boost,40,Stück,80.00,Geliefert
+61,2025-02-24,Eilbestellung,Continental AG,CO-RE-XKING,Fahrradreifen X-King 2.2,75,Stück,36.00,Geliefert
+62,2025-03-03,Standardbestellung,Shimano GmbH,SH-RD-M4120,Schaltwerk Alivio RD-M4120-SGS,90,Stück,38.00,Geliefert
+63,2025-03-10,Standardbestellung,SRAM Corporation,SR-CN-SX12,Kette SX Eagle 12-fach,110,Stück,18.00,Geliefert
+64,2025-03-17,Eilbestellung,Magura Bosch Parts & Services GmbH,MA-RT-CL,Bremsscheibe Centerlock 180mm,45,Stück,30.00,Geliefert
+65,2025-03-24,Standardbestellung,Selle Italia S.r.l.,SI-BA-NET,Fahrradsattel Net,30,Stück,55.00,Geliefert
+66,2025-03-31,Standardbestellung,Continental AG,CO-TU-CITY,Fahrradschlauch City/Tour,160,Stück,2.80,Geliefert
+67,2025-04-07,Eilbestellung,Shimano GmbH,SH-FH-M6110,Hinterradnabe Deore FH-M6110,50,Stück,42.00,Geliefert
+68,2025-04-14,Standardbestellung,SRAM Corporation,SR-FC-SX1,Kurbelgarnitur SX Eagle,45,Stück,95.00,Bestellt
